@@ -9,3 +9,14 @@
 .quickaccessmenu_Title_34nl5 {
     box-shadow: none;
 }
+ReactVirtualized__Grid {
+        box-sizing: border-box;
+    direction: ltr;
+    height: 317px;
+    position: relative;
+    width: 878px;
+    will-change: transform;
+    overflow: auto;
+    border: rgb(34, 251, 15);
+    background-image: linear-gradient(180deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
+}

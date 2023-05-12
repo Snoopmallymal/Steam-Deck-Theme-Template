@@ -1,10 +1,15 @@
 {
-    "name": "Sample Simple Theme",
-    "author": "SuchMeme",
-    "manifest_version": 3,
-    "target": "Other",
-    "description": "This is a sample theme that turns the QAM black",
-    "inject": {
-        "shared.css": ["QuickAccess"]
-    }
+	"name": "Blue Gradient",
+	"author": "SnoopMallyMal",
+	"target": "Other",
+	"version": "v1.0",
+	"description": "It's in the mane",
+	"manifest_version": 5,
+	"inject": {
+		"shared.css": [
+			"SP"
+		]
+	},
+	"dependencies": {},
+	"patches": {}
 }
